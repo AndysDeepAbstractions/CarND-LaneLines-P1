@@ -55,5 +55,6 @@ One potential shortcoming would be what would happen when
 - Add a nother hughg layer
 - Continous lines should be treathed diffrtent then dashed ones
 - Optical corrections shoud be applyed
+- Frame overlapping processing
 
 Another potential improvement could be to use stereo vision
